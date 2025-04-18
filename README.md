@@ -1,1 +1,1 @@
-# Diagnoses-Diabetes
+This project involves diagnosing whether a patient has diabetes based on certain medical parameters. Using a dataset of patient records, a classification model is built to predict the presence of diabetes. The model's performance is evaluated using metrics such as accuracy, precision, and recall, with results visualized via a confusion matrix heatmap.
